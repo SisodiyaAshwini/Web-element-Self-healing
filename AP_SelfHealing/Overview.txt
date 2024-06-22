@@ -1,0 +1,7 @@
+/** the core of this solution, we have an abstract TrainerBase class. 
+This class is in the Common folder and its main goal is to standardize the way this whole process is done. 
+It is in this class where we process data and perform feature engineering. 
+This class is also in charge of training machine learning algorithm. 
+The classes that implement this abstract class are located in the Trainers folder. 
+Here we can find multiple classes which utilize ML.NET algorithms. 
+These classes define which algorithm should be used. In this particular case, we have only one Predictor located in the Predictor folder.**/

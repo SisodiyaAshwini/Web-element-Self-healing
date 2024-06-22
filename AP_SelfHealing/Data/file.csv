@@ -1,0 +1,77 @@
+Element	Line	LinePosition	ControlId	Name	CSSClass	Value	Role	Type	TabIndex	Placeholder	Title	Href
+csrfToken	152	4	NULL	csrfToken	NULL	ajax:7356607335270576582	NULL	hidden	NULL	NULL	NULL	NULL
+resendUrl	154	6	input-resend-otp-url	resendUrl	NULL	NULL	NULL	hidden	NULL	NULL	NULL	NULL
+midToken	155	6	NULL	midToken	NULL	NULL	NULL	hidden	NULL	NULL	NULL	NULL
+session_redirect	156	6	NULL	session_redirect	NULL	https://www.linkedin.com/feed/	NULL	hidden	NULL	NULL	NULL	NULL
+parentPageKey	157	6	NULL	parentPageKey	NULL	d_checkpoint_lg_consumerLogin	NULL	hidden	NULL	NULL	NULL	NULL
+pageInstance	158	6	NULL	pageInstance	NULL	urn:li:page:checkpoint_lg_uasLogin;vF9rx5j7TLKi7S2xd6rErQ==	NULL	hidden	NULL	NULL	NULL	NULL
+controlId	159	6	NULL	controlId	NULL	d_checkpoint_lg_consumerLogin-SignInUsingOneTimeSignInLink	NULL	hidden	NULL	NULL	NULL	NULL
+session_redirect	160	6	NULL	session_redirect	NULL	https://www.linkedin.com/feed/	NULL	hidden	NULL	NULL	NULL	NULL
+trk	161	6	NULL	trk	NULL	NULL	NULL	hidden	NULL	NULL	NULL	NULL
+authUUID	162	6	NULL	authUUID	NULL	NULL	NULL	hidden	NULL	NULL	NULL	NULL
+encrypted_session_key	163	6	NULL	encrypted_session_key	NULL	NULL	NULL	hidden	NULL	NULL	NULL	NULL
+csrfToken	198	4	NULL	csrfToken	NULL	ajax:7356607335270576582	NULL	hidden	NULL	NULL	NULL	NULL
+session_key	219	6	username	session_key	NULL		NULL	text	NULL	NULL	NULL	NULL
+ac	228	8	NULL	ac	NULL	0	NULL	hidden	NULL	NULL	NULL	NULL
+loginFailureCount	229	8	NULL	loginFailureCount	NULL	0	NULL	hidden	NULL	NULL	NULL	NULL
+sIdString	230	13	NULL	sIdString	NULL	a316b82a-3f04-4fd3-a381-558a6a568a93	NULL	hidden	NULL	NULL	NULL	NULL
+pkSupported	232	6	pkSupported	pkSupported	NULL	false	NULL	hidden	NULL	NULL	NULL	NULL
+parentPageKey	234	6	NULL	parentPageKey	NULL	d_checkpoint_lg_consumerLogin	NULL	hidden	NULL	NULL	NULL	NULL
+pageInstance	235	6	NULL	pageInstance	NULL	urn:li:page:checkpoint_lg_uasLogin;vF9rx5j7TLKi7S2xd6rErQ==	NULL	hidden	NULL	NULL	NULL	NULL
+trk	236	6	NULL	trk	NULL	NULL	NULL	hidden	NULL	NULL	NULL	NULL
+authUUID	237	6	NULL	authUUID	NULL	NULL	NULL	hidden	NULL	NULL	NULL	NULL
+session_redirect	238	6	NULL	session_redirect	NULL	https://www.linkedin.com/feed/	NULL	hidden	NULL	NULL	NULL	NULL
+loginCsrfParam	239	6	NULL	loginCsrfParam	NULL	44771bbb-df9f-4266-8c2e-7470f4440227	NULL	hidden	NULL	NULL	NULL	NULL
+fp_data	240	6	fp_data_login	fp_data	NULL	default	NULL	hidden	NULL	NULL	NULL	NULL
+apfc	241	6	apfc-login	apfc	NULL	{}	NULL	hidden	NULL	NULL	NULL	NULL
+_d	243	6	NULL	_d	NULL	d	NULL	hidden	NULL	NULL	NULL	NULL
+showGoogleOneTapLogin	244	22	NULL	showGoogleOneTapLogin	NULL	true	NULL	hidden	NULL	NULL	NULL	NULL
+controlId	248	10	NULL	controlId	NULL	d_checkpoint_lg_consumerLogin-login_submit_button	NULL	hidden	NULL	NULL	NULL	NULL
+session_password	264	6	password	session_password	NULL	NULL	NULL	password	NULL	NULL	NULL	NULL
+submit	282	17	NULL	NULL	btn__primary--large from__button--floating	NULL	NULL	submit	NULL	NULL	NULL	NULL
+button	319	4	NULL	NULL	sign-in-with-apple-button hidden	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	391	8	btn-resend-otp	NULL	resend-button mt-12	NULL	NULL	button	NULL	NULL	NULL	NULL
+NULL	394	8	otp-cancel-button	NULL	otp-back-button	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+NULL	553	10	NULL	NULL	language-selector__button	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+button	567	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	572	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	577	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	582	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	587	18	NULL	NULL	language-selector__link language-selector__link--selected	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	592	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	597	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	602	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	607	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	612	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	617	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	622	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	627	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	632	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	637	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	642	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	647	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	652	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	657	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	662	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	667	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	672	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	677	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	682	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	687	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+button	692	18	NULL	NULL	language-selector__link 	NULL	NULL	button	NULL	NULL	NULL	NULL
+NULL	118	4	NULL	NULL	linkedin-logo	NULL	NULL	NULL	NULL	NULL	NULL	/
+NULL	275	10	NULL	NULL	btn__tertiary--medium forgot-password	NULL	NULL	NULL	NULL	NULL	NULL	/checkpoint/rp/request-password-reset?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2F
+NULL	304	56	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/user-agreement
+NULL	304	159	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/privacy-policy
+NULL	304	266	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/cookie-policy
+NULL	345	4	sign-in-with-passkey-btn	NULL	alternate-signin__btn mt-12	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+NULL	406	21	join_now	NULL	btn__tertiary--medium	NULL	NULL	NULL	NULL	NULL	NULL	/signup/cold-join?session_redirect&#61;https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
+NULL	425	60	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/user-agreement
+NULL	425	163	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/privacy-policy
+NULL	425	270	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/cookie-policy
+NULL	517	18	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/user-agreement?trk=d_checkpoint_lg_consumerLogin_ft_user_agreement
+NULL	522	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/privacy-policy?trk=d_checkpoint_lg_consumerLogin_ft_privacy_policy
+NULL	527	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/help/linkedin/answer/34593?lang=en&amp;trk=d_checkpoint_lg_consumerLogin_ft_community_guidelines
+NULL	532	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/cookie-policy?trk=d_checkpoint_lg_consumerLogin_ft_cookie_policy
+NULL	537	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/legal/copyright-policy?trk=d_checkpoint_lg_consumerLogin_ft_copyright_policy
+NULL	542	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	/help/linkedin?trk=d_checkpoint_lg_consumerLogin_ft_send_feedback&amp;lang=en

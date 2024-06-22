@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MachineLearning\Common\**" />
+    <Compile Remove="MachineLearning\Predicators\**" />
+    <Compile Remove="MachineLearning\Trainers\**" />
+    <EmbeddedResource Remove="MachineLearning\Common\**" />
+    <EmbeddedResource Remove="MachineLearning\Predicators\**" />
+    <EmbeddedResource Remove="MachineLearning\Trainers\**" />
+    <None Remove="MachineLearning\Common\**" />
+    <None Remove="MachineLearning\Predicators\**" />
+    <None Remove="MachineLearning\Trainers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ElementPrediction1.cs" />
+    <Compile Remove="ElementPrediction2.cs" />
+    <Compile Remove="ElementPrediction3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.61" />
+    <PackageReference Include="Microsoft.ML" Version="3.0.1" />
+    <PackageReference Include="Microsoft.ML.FastTree" Version="3.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Data\file_working.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+</Project>

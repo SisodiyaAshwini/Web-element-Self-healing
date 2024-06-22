@@ -1,0 +1,5 @@
+Element	Line	LinePosition	ControlId	Name	CSSClass	Value	Role	Type	TabIndex	Placeholder	Title	Href
+s	589	4	NULL	s	hfe-search-form__input		test	search	NULL		Search	NULL
+email	633	0	userId	email	selectors-input jsSelector		NULL	email	NULL	Enter email	Email	NULL
+Password	639	0	pass	Password	selectors-input jsSelector		NULL	password	NULL	Enter Password	Password	NULL
+company	648	5	NULL	company	form-control	NULL	NULL	text	NULL	Enter your company	NULL	NULL
